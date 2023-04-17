@@ -61,7 +61,7 @@ Run the Docker image in a container
 ## Features
 
 - Light/dark mode toggle
-- Live previews
+- Live preview
 - Fullscreen mode
 - Cross platform
 
