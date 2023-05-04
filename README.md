@@ -80,4 +80,6 @@ Run the Docker image in a container
 - [Asish Tony](https://www.github.com/Asish-15)
 - [Vinod Babu](https://www.github.com/vinodbabuboddukuri)
 
+- [Yaswanth Arikatla](https://github.com/YaswanthArikatla)
+
 
