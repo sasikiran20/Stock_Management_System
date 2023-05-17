@@ -4,14 +4,14 @@ import "firebase/firestore";
 import "firebase/performance";
 
 const config = {
-  apiKey: "AIzaSyCxpKEaeS6003TexhZyyXUyMV7G61jz8Tk",
-  authDomain: "stockproj-4d8ad.firebaseapp.com",
-  projectId: "stockproj-4d8ad",
-  storageBucket: "stockproj-4d8ad.appspot.com",
-  messagingSenderId: "465769029650",
-  appId: "1:465769029650:web:a0eee99338ea1d5e3638cb",
-  measurementId: "G-003R8RH9XP",
-  databaseURL:"https://stockproj-4d8ad-default-rtdb.firebaseio.com"
+  apiKey: "AIzaSyCjF9BidLSRcmzQWy76bPFgGsfYC_fWiks",
+  authDomain: "steel-utility-383704.firebaseapp.com",
+  databaseURL: "https://steel-utility-383704-default-rtdb.firebaseio.com",
+  projectId: "steel-utility-383704",
+  storageBucket: "steel-utility-383704.appspot.com",
+  messagingSenderId: "673936703398",
+  appId: "1:673936703398:web:012004723e59d140069967",
+  measurementId: "G-Y7TFJBSMH4"
   // apiKey: "AIzaSyDm7zrnUA3hk0kPzFhTXaVN5xGuB-3fbJs",
   // authDomain: "stocks-af048.firebaseapp.com",
   //databaseURL: "https://stocks-af048.firebaseio.com",
